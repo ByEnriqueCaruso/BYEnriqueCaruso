@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working on refining my web development skills through building a personal portfolio website.
+- 🌱 I’m currently learning React.js and exploring machine learning concepts in Python.
+- 👯 I’m looking to collaborate on open-source projects related to education technology.
+- 🤔 I’m looking for help with mastering advanced algorithms and data structures.
+- 💬 Ask me about my experience with hackathons and my favorite coding challenges!
+- 📫 How to reach me: Drop me a message on LinkedIn at linkedin.com/in/enrique-caruso.
+- 😄 Pronouns: He/him.
+- ⚡ Fun fact: I'm also a salsa dancer and enjoy mixing beats as a hobby DJ!
 
 <!--
 **ByEnriqueCaruso/BYEnriqueCaruso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
